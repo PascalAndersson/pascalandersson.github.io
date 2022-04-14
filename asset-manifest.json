@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/pascalandersson.github.io/static/css/main.6604af7b.css",
-    "main.js": "/pascalandersson.github.io/static/js/main.8e99a1f7.js",
+    "main.js": "/pascalandersson.github.io/static/js/main.4cb05e18.js",
     "static/js/787.65b8a3c7.chunk.js": "/pascalandersson.github.io/static/js/787.65b8a3c7.chunk.js",
     "index.html": "/pascalandersson.github.io/index.html",
     "main.6604af7b.css.map": "/pascalandersson.github.io/static/css/main.6604af7b.css.map",
-    "main.8e99a1f7.js.map": "/pascalandersson.github.io/static/js/main.8e99a1f7.js.map",
+    "main.4cb05e18.js.map": "/pascalandersson.github.io/static/js/main.4cb05e18.js.map",
     "787.65b8a3c7.chunk.js.map": "/pascalandersson.github.io/static/js/787.65b8a3c7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6604af7b.css",
-    "static/js/main.8e99a1f7.js"
+    "static/js/main.4cb05e18.js"
   ]
 }
